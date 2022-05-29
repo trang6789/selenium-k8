@@ -3,6 +3,7 @@ package lab_02;
 import java.util.Scanner;
 
 public class Calculate_BMI {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please input your height: ");
